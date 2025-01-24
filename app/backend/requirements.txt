@@ -269,7 +269,7 @@ opentelemetry-instrumentation-dbapi==0.47b0
     # via opentelemetry-instrumentation-psycopg2
 opentelemetry-instrumentation-django==0.47b0
     # via azure-monitor-opentelemetry
-opentelemetry-instrumentation-fastapi==0.47b0
+opentelemetry-instrumentation-fastapi==0.50b0
     # via azure-monitor-opentelemetry
 opentelemetry-instrumentation-flask==0.47b0
     # via azure-monitor-opentelemetry
