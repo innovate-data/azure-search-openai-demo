@@ -334,7 +334,7 @@ pendulum==3.0.0
     # via
     #   microsoft-kiota-serialization-form
     #   microsoft-kiota-serialization-json
-pillow==10.4.0
+pillow==11.1.0
     # via
     #   -r requirements.in
     #   openai-messages-token-helper
